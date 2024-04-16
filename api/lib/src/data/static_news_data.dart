@@ -1235,12 +1235,12 @@ final scienceVideoItems = <NewsItem>[
 /// Top news feed blocks.
 final topNewsFeedBlocks = <NewsBlock>[
   const SpacerBlock(spacing: Spacing.small),
-  const SectionHeaderBlock(title: 'Breaking News'),
+  const SectionHeaderBlock(title: 'About us'),
   technologyLargeItems.first.post,
   const BannerAdBlock(size: BannerAdSize.normal),
   const SpacerBlock(spacing: Spacing.small),
   const SectionHeaderBlock(
-    title: 'Technology',
+    title: 'Overview',
     action: NavigateToFeedCategoryAction(
       category: Category.technology,
     ),
@@ -1249,7 +1249,7 @@ final topNewsFeedBlocks = <NewsBlock>[
   const BannerAdBlock(size: BannerAdSize.large),
   const SpacerBlock(spacing: Spacing.small),
   const SectionHeaderBlock(
-    title: 'Science Videos',
+    title: 'Alumni Chapters',
     action: NavigateToFeedCategoryAction(
       category: Category.science,
     ),
@@ -1261,7 +1261,7 @@ final topNewsFeedBlocks = <NewsBlock>[
   const SpacerBlock(spacing: Spacing.large),
   const DividerHorizontalBlock(),
   const SectionHeaderBlock(
-    title: 'Sports',
+    title: 'ODAA',
     action: NavigateToFeedCategoryAction(
       category: Category.sports,
     ),
