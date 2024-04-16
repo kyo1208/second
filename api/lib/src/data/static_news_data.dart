@@ -37,19 +37,19 @@ const subscriptions = <Subscription>[
 
 /// List of popular search topics.
 const popularTopics = [
-  'Ukraine',
+  'Press Releases',
   'Supreme Court',
   'China',
-  'Inflation',
+  'flutter meetup',
   'Oil Prices',
   'Plane Crash',
 ];
 
 /// List of relevant search topics.
 const relevantTopics = [
-  'South China Sea',
-  'US-China Relations',
-  'China at the Olymptics',
+  'Novel hydrogel removes microplastics from water',
+  'Tracking the virus behind India’s lumpy skin cattle crisis',
+  'Paving new paths for sustainable construction',
 ];
 
 /// List of popular search articles.
@@ -59,11 +59,11 @@ final popularArticles = <NewsItem>[
       id: '5c47495a-608b-4e8b-a7f0-642a02594888',
       category: PostCategory.technology,
       author: 'CNN',
-      publishedAt: DateTime(2022, 3, 17),
+      publishedAt: DateTime(2024, 3, ),
       imageUrl:
           'https://cdn.cnn.com/cnnnext/dam/assets/220518135103-03-boeing-starliner-pre-launch-0518-super-tease.jpg',
-      title: 'Boeing makes third attempt to launch its '
-          'Starliner capsule to the ISS',
+      title: 'A swarm to save the day'
+           ,
       description: 'Boeing will try yet again Thursday to send the capsule it '
           'designed to ferry astronauts to and from the International '
           'Space Station on a successful, uncrewed test mission. '
@@ -136,8 +136,7 @@ final technologyLargeItems = <NewsItem>[
       publishedAt: DateTime(2022, 4, 19),
       imageUrl:
           'https://cdn.vox-cdn.com/thumbor/OTpmptgr7XcTVAJ27UBvIxl0vrg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22049166/shollister_201117_4303_0003.0.jpg',
-      title: 'Nvidia and AMD GPUs are returning to shelves '
-          'and prices are finally falling',
+      title: '',
       action: const NavigateToArticleAction(
         articleId: '499305f6-5096-4051-afda-824dcfc7df23',
       ),

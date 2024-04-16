@@ -137,5 +137,15 @@
     "**/api/lib/api/v1/projects/templates/*_bundle.dart",
     "**/api/lib/src/data/static_news_data.dart",
     "**/lib/terms_of_service/terms_of_service_mock_text.dart"
+  ],
+  "dictionaries": [
+    "custom-dictionary"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-dictionary",
+      "path": "./.cspell/custom-dictionary.txt",
+      "addWords": true
+    }
   ]
 }
