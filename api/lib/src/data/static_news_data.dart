@@ -320,8 +320,8 @@ final technologyLargeItems = <NewsItem>[
       author: 'Jasmine Hicks',
       publishedAt: DateTime(2022, 6, 2),
       imageUrl:
-          'https://cdn.vox-cdn.com/thumbor/TanD-HFR6zb_ZfUEMwGMRWkdl5E=/0x0:1920x1080/1820x1213/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/70937578/676eeda0_4ebe_4742_857e_9934a172200d.0.png',
-      title: 'Meta adds new Calls tab to its Messenger app for iOS and Android',
+          'https://odaa.iisc.ac.in/wp-content/uploads/2024/02/Nikhil-More-1-980x653.jpg',
+      title: 'IISc’s unrestricted corpus',
       action: const NavigateToArticleAction(
         articleId: '7dd29642-2bbd-40ea-80af-99e4381bbabb',
       ),
