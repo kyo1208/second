@@ -551,14 +551,12 @@ final sportsMediumItems = <NewsItem>[
       author: 'Tom Dierberger',
       publishedAt: DateTime(2022, 5, 5),
       imageUrl:
-          'https://www.nbcsports.com/sites/rsnunited/files/styles/metatags_opengraph/public/article/hero/pat-bev-ja-morant-USA.jpg',
-      title: 'Patrick Beverley throws shade at Warriors '
-          'for Ja Morant struggles - NBC Sports',
+          'https://vaave.s3.amazonaws.com/content/151525144_1525150570_1.jpg',
+      title: ' OFFICE OF DEVELOPMENT & ALUMNI AFFAIRS'
+          ,
       description:
-          'Patrick Beverley is no longer participating in the NBA playoffs, '
-          'but he sure has a lot to say. In Game 2 between the Warriors and '
-          'Memphis Grizzlies on Tuesday night, Ja Morant torched the Dubs '
-          'for 47 points...',
+          'The Office of Development and Alumni Affairs (ODAA) is the official wing of The Indian Institute of Science (IISc) - India’s #1 premier University, for alumni affairs. '
+          ,
       action: const NavigateToArticleAction(
         articleId: '82c49bf1-946d-4920-a801-302291f367b5',
       ),
@@ -1074,8 +1072,7 @@ final scienceVideoItems = <NewsItem>[
       imageUrl:
           'https://cdn.vox-cdn.com/thumbor/eqkJgsUMn-iJOrN98c4gduFGDT8=/0x74:1050x624/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23441881/Screen_Shot_2022_05_06_at_1.13.12_AM.png',
       title:
-          'SpaceX successfully returns four astronauts from the International '
-          'Space Station',
+          'The “eyes” have it: Demystifying gaze and attention',
       action: const NavigateToVideoArticleAction(
         articleId: '384a15ff-a50e-46d5-96a7-8864facdcc48',
       ),
@@ -1083,10 +1080,9 @@ final scienceVideoItems = <NewsItem>[
     content: const [
       VideoIntroductionBlock(
         category: PostCategory.science,
-        title: 'SpaceX successfully returns four astronauts from the '
-            'International Space Station',
+        title: 'The “eyes” have it: Demystifying gaze and attention',
         videoUrl:
-            'https://flutter.github.io/assets-for-api-docs/assets/videos/bee.mp4',
+            'https://www.pinterest.com/pin/quick-saves--429953095685909412/.mp4',
       ),
     ],
     contentPreview: const [
@@ -1127,10 +1123,9 @@ final scienceVideoItems = <NewsItem>[
       author: 'Daniel Strain',
       publishedAt: DateTime(2022, 5, 6),
       imageUrl:
-          'https://scx2.b-cdn.net/gfx/news/2022/a-surging-glow-in-a-di.jpg',
+          'https://www.iisc.ac.in/wp-content/uploads/2024/02/write-up-CES.jpg',
       title:
-          'A surging glow in a distant galaxy could change the way we look at '
-          'black holes',
+          'Synthetic antibody neutralises deadly snakebite toxin',
       action: const NavigateToVideoArticleAction(
         articleId: '13e448bb-cd26-4ae0-b138-4a67067f7a93',
       ),
