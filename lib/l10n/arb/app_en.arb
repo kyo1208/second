@@ -197,27 +197,27 @@
     "type": "String",
     "placeholders": {}
   },
-  "navigationDrawerSectionsTitle": "SECTIONS",
+  "navigationDrawerSectionsTitle": "Sections",
   "@navigationDrawerSectionsTitle": {
     "description": "Navigation drawer sections title",
     "type": "String",
     "placeholders": {}
   },
-  "navigationDrawerSubscribeTitle": "Become A Subscriber",
+  "navigationDrawerSubscribeTitle": "Membership",
   "@navigationDrawerSubscribeTitle": {
     "description": "Navigation drawer subscribe title",
     "type": "String",
     "placeholders": {}
   },
-  "navigationDrawerSubscribeSubtitle": "Subscribe to access premium content and exclusive online events.",
+  "navigationDrawerSubscribeSubtitle": "Become The IIScAA Member.",
   "@navigationDrawerSubscribeSubtitle": {
     "description": "Navigation drawer subscribe subtitle",
     "type": "String",
     "placeholders": {}
   },
-  "subscribeButtonText": "Subscribe",
+  "subscribeButtonText": "Membership",
   "@subscribeButtonText": {
-    "description": "Subscribe button text",
+    "description": "Membership button text",
     "type": "String",
     "placeholders": {}
   },
@@ -245,45 +245,45 @@
     "type": "String",
     "placeholders": {}
   },
-  "userProfileSubscriptionDetailsSubtitle": "Subscription Details",
+  "userProfileSubscriptionDetailsSubtitle": "Membership Details",
   "@userProfileSubscriptionDetailsSubtitle": {
-    "description": "User profile subscription details section subtitle",
+    "description": "User profile Membership details section subtitle",
     "type": "String",
     "placeholders": {}
   },
-  "userProfileSubscribeBoxSubtitle": "You are not currently a subscriber.",
+  "userProfileSubscribeBoxSubtitle": "You are not currently a Member.",
   "@userProfileSubscribeBoxSubtitle": {
-    "description": "User profile not a subscriber subtitle",
+    "description": "User profile not a membership subtitle",
     "type": "String",
     "placeholders": {}
   },
-  "userProfileSubscribeBoxMessage": "Become a subscriber to access premium content and exclusive online events.",
+  "userProfileSubscribeBoxMessage": "Become IIScAA Member.",
   "@userProfileSubscribeBoxMessage": {
-    "description": "User profile not a subscriber message",
+    "description": "User profile not a Member message",
     "type": "String",
     "placeholders": {}
   },
-  "userProfileSubscribeNowButtonText": "Subscribe Now",
+  "userProfileSubscribeNowButtonText": "Membership",
   "@userProfileSubscribeNowButtonText": {
-    "description": "User profile settings subscribe button text",
+    "description": "User profile settings Member button text",
     "type": "String",
     "placeholders": {}
   },
-  "manageSubscriptionTile": "Manage Subscription",
+  "manageSubscriptionTile": "Manage Membership",
   "@manageSubscriptionTile": {
-    "description": "Manage subscription section - subscription item title",
+    "description": "Manage membership section - membership item title",
     "type": "String",
     "placeholders": {}
   },
-  "manageSubscriptionBodyText": "Manage your subscription through the Subscriptions manager on your device.",
+  "manageSubscriptionBodyText": "Manage your membership through the Membership manager on your device.",
   "@manageSubscriptionBodyText": {
-    "description": "Manage subscription section - subscription body text",
+    "description": "Manage membership section - membership body text",
     "type": "String",
     "placeholders": {}
   },
-  "manageSubscriptionLinkText": "Subscriptions",
+  "manageSubscriptionLinkText": "Membership",
   "@manageSubscriptionLinkText": {
-    "description": "Manage subscription link text",
+    "description": "Manage membership link text",
     "type": "String",
     "placeholders": {}
   },
@@ -407,21 +407,21 @@
     "type": "String",
     "placeholders": {}
   },
-  "subscribeErrorMessage": "Problem ocurred when subscribing to the newsletter",
+  "subscribeErrorMessage": "Problem ocurred while in the process",
   "@subscribeErrorMessage": {
-    "description": "Message displayed when error ocurred during subscribing to newsletter",
+    "description": "Message displayed when there is a error while becoming a Member",
     "type": "String",
     "placeholders": {}
   },
-  "searchPopularSearches": "Popular Searches",
+  "searchPopularSearches": "events",
   "@searchPopularSearches": {
-    "description": "Text displayed at the top of the popular searches.",
+    "description": "Text displayed at the top of the events.",
     "type": "String",
     "placeholders": {}
   },
-  "searchPopularArticles": "Popular Articles",
+  "searchPopularArticles": "Articles",
   "@searchPopularArticles": {
-    "description": "Text displayed at the top of the popular articles.",
+    "description": "Text displayed at the top of the  articles.",
     "type": "String",
     "placeholders": {}
   },
@@ -449,9 +449,9 @@
     "type": "String",
     "placeholders": {}
   },
-  "bottomNavBarTopStories": "Top Stories",
+  "bottomNavBarTopStories": "Home",
   "@bottomNavBarTopStories": {
-    "description": "Top stories text shown in the bottom nav bar widget.",
+    "description": "Home text shown in the bottom nav bar widget.",
     "type": "String",
     "placeholders": {}
   },
@@ -467,15 +467,15 @@
     "type": "String",
     "placeholders": {}
   },
-  "subscribeModalTitle": "ADD YOUR SUBSCRIPTION\nPROMPT TITLE",
+  "subscribeModalTitle": "Become a Member\nPROMPT TITLE",
   "@subscribeModalTitle": {
-    "description": "Title text shown in the subscribe modal widget.",
+    "description": "Title text shown in the Member modal widget.",
     "type": "String",
     "placeholders": {}
   },
-  "subscribeModalSubtitle": "ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION",
+  "subscribeModalSubtitle": "ADD YOUR Membership\nPROMPT DESCRIPTION",
   "@subscribeModalSubtitle": {
-    "description": "Subtitle text shown in the subscribe modal widget.",
+    "description": "Subtitle text shown in theme Member modal widget.",
     "type": "String",
     "placeholders": {}
   },
@@ -491,9 +491,9 @@
     "type": "String",
     "placeholders": {}
   },
-  "subscribeWithArticleLimitModalSubtitle": "ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION",
+  "subscribeWithArticleLimitModalSubtitle": "Become a Member\nPROMPT DESCRIPTION",
   "@subscribeWithArticleLimitModalSubtitle": {
-    "description": "Subtitle text shown in the subscribe limit modal modal widget.",
+    "description": "Subtitle text shown in the Member limit modal modal widget.",
     "type": "String",
     "placeholders": {}
   },

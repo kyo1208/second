@@ -104,16 +104,16 @@ class AppLocalizationsEn extends AppLocalizations {
   String get continueWithEmailButtonText => 'Continue with Email';
 
   @override
-  String get navigationDrawerSectionsTitle => 'SECTIONS';
+  String get navigationDrawerSectionsTitle => 'Sections';
 
   @override
-  String get navigationDrawerSubscribeTitle => 'Become A Subscriber';
+  String get navigationDrawerSubscribeTitle => 'Membership';
 
   @override
-  String get navigationDrawerSubscribeSubtitle => 'Subscribe to access premium content and exclusive online events.';
+  String get navigationDrawerSubscribeSubtitle => 'Become The IIScAA Member.';
 
   @override
-  String get subscribeButtonText => 'Subscribe';
+  String get subscribeButtonText => 'Membership';
 
   @override
   String get nextButtonText => 'Next';
@@ -128,25 +128,25 @@ class AppLocalizationsEn extends AppLocalizations {
   String get userProfileSettingsSubtitle => 'Settings';
 
   @override
-  String get userProfileSubscriptionDetailsSubtitle => 'Subscription Details';
+  String get userProfileSubscriptionDetailsSubtitle => 'Membership Details';
 
   @override
-  String get userProfileSubscribeBoxSubtitle => 'You are not currently a subscriber.';
+  String get userProfileSubscribeBoxSubtitle => 'You are not currently a Member.';
 
   @override
-  String get userProfileSubscribeBoxMessage => 'Become a subscriber to access premium content and exclusive online events.';
+  String get userProfileSubscribeBoxMessage => 'Become IIScAA Member.';
 
   @override
-  String get userProfileSubscribeNowButtonText => 'Subscribe Now';
+  String get userProfileSubscribeNowButtonText => 'Membership';
 
   @override
-  String get manageSubscriptionTile => 'Manage Subscription';
+  String get manageSubscriptionTile => 'Manage Membership';
 
   @override
-  String get manageSubscriptionBodyText => 'Manage your subscription through the Subscriptions manager on your device.';
+  String get manageSubscriptionBodyText => 'Manage your membership through the Membership manager on your device.';
 
   @override
-  String get manageSubscriptionLinkText => 'Subscriptions';
+  String get manageSubscriptionLinkText => 'Membership';
 
   @override
   String get userProfileSettingsNotificationsTitle => 'Notifications';
@@ -209,13 +209,13 @@ class AppLocalizationsEn extends AppLocalizations {
   String get subscribeSuccessfulEmailBody => 'Check your email for all of your newsletter details. ';
 
   @override
-  String get subscribeErrorMessage => 'Problem ocurred when subscribing to the newsletter';
+  String get subscribeErrorMessage => 'Problem ocurred while in the process';
 
   @override
-  String get searchPopularSearches => 'Popular Searches';
+  String get searchPopularSearches => 'events';
 
   @override
-  String get searchPopularArticles => 'Popular Articles';
+  String get searchPopularArticles => 'Articles';
 
   @override
   String get searchRelevantTopics => 'Relevant Topics / Sections';
@@ -230,7 +230,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get searchErrorMessage => 'Problem ocurred finding search results.';
 
   @override
-  String get bottomNavBarTopStories => 'Top Stories';
+  String get bottomNavBarTopStories => 'Home';
 
   @override
   String get bottomNavBarSearch => 'Search';
@@ -239,10 +239,10 @@ class AppLocalizationsEn extends AppLocalizations {
   String get relatedStories => 'Related Stories';
 
   @override
-  String get subscribeModalTitle => 'ADD YOUR SUBSCRIPTION\nPROMPT TITLE';
+  String get subscribeModalTitle => 'Become a Member\nPROMPT TITLE';
 
   @override
-  String get subscribeModalSubtitle => 'ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION';
+  String get subscribeModalSubtitle => 'ADD YOUR Membership\nPROMPT DESCRIPTION';
 
   @override
   String get subscribeModalLogInButton => 'Log In';
@@ -251,7 +251,7 @@ class AppLocalizationsEn extends AppLocalizations {
   String get subscribeWithArticleLimitModalTitle => 'You\'ve reached your\n4 article limit.';
 
   @override
-  String get subscribeWithArticleLimitModalSubtitle => 'ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION';
+  String get subscribeWithArticleLimitModalSubtitle => 'Become a Member\nPROMPT DESCRIPTION';
 
   @override
   String get subscribeWithArticleLimitModalLogInButton => 'Log In';

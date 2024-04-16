@@ -292,25 +292,25 @@ abstract class AppLocalizations {
   /// Navigation drawer sections title
   ///
   /// In en, this message translates to:
-  /// **'SECTIONS'**
+  /// **'Sections'**
   String get navigationDrawerSectionsTitle;
 
   /// Navigation drawer subscribe title
   ///
   /// In en, this message translates to:
-  /// **'Become A Subscriber'**
+  /// **'Membership'**
   String get navigationDrawerSubscribeTitle;
 
   /// Navigation drawer subscribe subtitle
   ///
   /// In en, this message translates to:
-  /// **'Subscribe to access premium content and exclusive online events.'**
+  /// **'Become The IIScAA Member.'**
   String get navigationDrawerSubscribeSubtitle;
 
-  /// Subscribe button text
+  /// Membership button text
   ///
   /// In en, this message translates to:
-  /// **'Subscribe'**
+  /// **'Membership'**
   String get subscribeButtonText;
 
   /// Log in with email next button shown on the login with email form
@@ -337,46 +337,46 @@ abstract class AppLocalizations {
   /// **'Settings'**
   String get userProfileSettingsSubtitle;
 
-  /// User profile subscription details section subtitle
+  /// User profile Membership details section subtitle
   ///
   /// In en, this message translates to:
-  /// **'Subscription Details'**
+  /// **'Membership Details'**
   String get userProfileSubscriptionDetailsSubtitle;
 
-  /// User profile not a subscriber subtitle
+  /// User profile not a membership subtitle
   ///
   /// In en, this message translates to:
-  /// **'You are not currently a subscriber.'**
+  /// **'You are not currently a Member.'**
   String get userProfileSubscribeBoxSubtitle;
 
-  /// User profile not a subscriber message
+  /// User profile not a Member message
   ///
   /// In en, this message translates to:
-  /// **'Become a subscriber to access premium content and exclusive online events.'**
+  /// **'Become IIScAA Member.'**
   String get userProfileSubscribeBoxMessage;
 
-  /// User profile settings subscribe button text
+  /// User profile settings Member button text
   ///
   /// In en, this message translates to:
-  /// **'Subscribe Now'**
+  /// **'Membership'**
   String get userProfileSubscribeNowButtonText;
 
-  /// Manage subscription section - subscription item title
+  /// Manage membership section - membership item title
   ///
   /// In en, this message translates to:
-  /// **'Manage Subscription'**
+  /// **'Manage Membership'**
   String get manageSubscriptionTile;
 
-  /// Manage subscription section - subscription body text
+  /// Manage membership section - membership body text
   ///
   /// In en, this message translates to:
-  /// **'Manage your subscription through the Subscriptions manager on your device.'**
+  /// **'Manage your membership through the Membership manager on your device.'**
   String get manageSubscriptionBodyText;
 
-  /// Manage subscription link text
+  /// Manage membership link text
   ///
   /// In en, this message translates to:
-  /// **'Subscriptions'**
+  /// **'Membership'**
   String get manageSubscriptionLinkText;
 
   /// User profile settings section - notifications item title
@@ -499,22 +499,22 @@ abstract class AppLocalizations {
   /// **'Check your email for all of your newsletter details. '**
   String get subscribeSuccessfulEmailBody;
 
-  /// Message displayed when error ocurred during subscribing to newsletter
+  /// Message displayed when there is a error while becoming a Member
   ///
   /// In en, this message translates to:
-  /// **'Problem ocurred when subscribing to the newsletter'**
+  /// **'Problem ocurred while in the process'**
   String get subscribeErrorMessage;
 
-  /// Text displayed at the top of the popular searches.
+  /// Text displayed at the top of the events.
   ///
   /// In en, this message translates to:
-  /// **'Popular Searches'**
+  /// **'events'**
   String get searchPopularSearches;
 
-  /// Text displayed at the top of the popular articles.
+  /// Text displayed at the top of the  articles.
   ///
   /// In en, this message translates to:
-  /// **'Popular Articles'**
+  /// **'Articles'**
   String get searchPopularArticles;
 
   /// Text displayed at the top of the relevant search.
@@ -541,10 +541,10 @@ abstract class AppLocalizations {
   /// **'Problem ocurred finding search results.'**
   String get searchErrorMessage;
 
-  /// Top stories text shown in the bottom nav bar widget.
+  /// Home text shown in the bottom nav bar widget.
   ///
   /// In en, this message translates to:
-  /// **'Top Stories'**
+  /// **'Home'**
   String get bottomNavBarTopStories;
 
   /// Search text shown in the bottom nav bar widget.
@@ -559,16 +559,16 @@ abstract class AppLocalizations {
   /// **'Related Stories'**
   String get relatedStories;
 
-  /// Title text shown in the subscribe modal widget.
+  /// Title text shown in the Member modal widget.
   ///
   /// In en, this message translates to:
-  /// **'ADD YOUR SUBSCRIPTION\nPROMPT TITLE'**
+  /// **'Become a Member\nPROMPT TITLE'**
   String get subscribeModalTitle;
 
-  /// Subtitle text shown in the subscribe modal widget.
+  /// Subtitle text shown in theme Member modal widget.
   ///
   /// In en, this message translates to:
-  /// **'ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION'**
+  /// **'ADD YOUR Membership\nPROMPT DESCRIPTION'**
   String get subscribeModalSubtitle;
 
   /// Text shown in log in button on the subscribe modal widget.
@@ -583,10 +583,10 @@ abstract class AppLocalizations {
   /// **'You\'ve reached your\n4 article limit.'**
   String get subscribeWithArticleLimitModalTitle;
 
-  /// Subtitle text shown in the subscribe limit modal modal widget.
+  /// Subtitle text shown in the Member limit modal modal widget.
   ///
   /// In en, this message translates to:
-  /// **'ADD YOUR SUBSCRIPTION\nPROMPT DESCRIPTION'**
+  /// **'Become a Member\nPROMPT DESCRIPTION'**
   String get subscribeWithArticleLimitModalSubtitle;
 
   /// Text shown in log in button on the subscribe limit modal widget.
