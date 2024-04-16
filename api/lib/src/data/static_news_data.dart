@@ -38,11 +38,9 @@ const subscriptions = <Subscription>[
 /// List of popular search topics.
 const popularTopics = [
   'Press Releases',
-  'Supreme Court',
-  'China',
-  'flutter meetup',
-  'Oil Prices',
-  'Plane Crash',
+  'Vision & Mission',
+  'OBJECTIVES AND ACTIVITIES',
+  'Mentors Committee',
 ];
 
 /// List of relevant search topics.
@@ -61,7 +59,7 @@ final popularArticles = <NewsItem>[
       author: 'CNN',
       publishedAt: DateTime(2024, 3, ),
       imageUrl:
-          'https://cdn.cnn.com/cnnnext/dam/assets/220518135103-03-boeing-starliner-pre-launch-0518-super-tease.jpg',
+          'https://www.iisc.ac.in/wp-content/uploads/2024/03/Drone_firefighting_AIRL.jpg',
       title: 'A swarm to save the day'
            ,
       description: 'Boeing will try yet again Thursday to send the capsule it '
