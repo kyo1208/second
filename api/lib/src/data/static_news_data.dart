@@ -797,9 +797,8 @@ final healthSmallItems = <NewsItem>[
       category: PostCategory.health,
       author: 'Northwestern University',
       publishedAt: DateTime(2022, 5, 4),
-      imageUrl: 'https://scitechdaily.com/images/Ear-Hearing-Concept.jpg',
-      title: 'Restoring Hearing: New Tool To Create Ear Hair Cells '
-          'Lost Due to Aging or Noise',
+      imageUrl: 'https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_9107a7087ff6b41589d3a420e7d3d84d.jpeg',
+      title: 'CHENNAI ALUMNI MEETUP',
       description: '‘We have overcome a major hurdle’ to restore hearing, '
           'investigators say. Gene discovery allows the production of inner '
           'or outer ear hair cells, death of outer hair cells due to aging '
@@ -1159,9 +1158,8 @@ final scienceVideoItems = <NewsItem>[
       author: 'SciTechDaily',
       publishedAt: DateTime(2022, 5, 5),
       imageUrl:
-          'https://scitechdaily.com/images/Qubit-Platform-Single-Electron-on-Solid-Neon.jpg',
-      title: 'The Quest for an Ideal Quantum Bit: New Qubit Breakthrough Could '
-          'Revolutionize Quantum Computing',
+          'https://vaave.s3.amazonaws.com/user_files/851f5ac9941d720844d143ed9cfcf60a_3c5ab6823d63bf5d27c5c2fa123ea743.jpg',
+      title: 'Mrs. Sudha Murthy takes oath as Member of Upper House of Parliament',
       action: const NavigateToVideoArticleAction(
         articleId: '842e3193-86d2-4069-a7e6-f769faa6f970',
       ),
@@ -1196,9 +1194,8 @@ final scienceVideoItems = <NewsItem>[
       category: PostCategory.science,
       author: 'SciTechDaily',
       publishedAt: DateTime(2022, 5, 4),
-      imageUrl: 'https://scitechdaily.com/images/Black-Hole-Sonification.gif',
-      title: 'Hear What a Black Hole Sounds Like – New NASA Black Hole '
-          'Sonifications With a Remix',
+      imageUrl: 'https://in.pinterest.com/pin/9to5animationscom--301881981258454569/.gif',
+      title: 'IIScAA wishes you Happy New Year 2024',
       action: const NavigateToVideoArticleAction(
         articleId: '1f79da6f-64cb-430a-b7b2-2318d23b719f',
       ),
@@ -1266,7 +1263,7 @@ final topNewsFeedBlocks = <NewsBlock>[
   const BannerAdBlock(size: BannerAdSize.extraLarge),
   const SpacerBlock(spacing: Spacing.small),
   const SectionHeaderBlock(
-    title: 'Health',
+    title: 'Newsroom',
     action: NavigateToFeedCategoryAction(
       category: Category.health,
     ),
