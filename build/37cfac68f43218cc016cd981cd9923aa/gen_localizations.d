@@ -1,0 +1,1 @@
+ E:\\dev\\projects\\flutter\\secondmy\\second\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart E:\\dev\\projects\\flutter\\secondmy\\second\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  E:\\dev\\projects\\flutter\\secondmy\\second\\l10n.yaml E:\\dev\\projects\\flutter\\secondmy\\second\\lib/l10n/arb\\app_en.arb

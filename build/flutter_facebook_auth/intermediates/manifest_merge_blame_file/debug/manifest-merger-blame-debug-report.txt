@@ -3,6 +3,6 @@
 3    package="app.meedu.flutter_facebook_auth" >
 4
 5    <uses-sdk android:minSdkVersion="21" />
-5-->C:\Users\sahil\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_facebook_auth-6.2.0\android\src\main\AndroidManifest.xml
+5-->C:\Users\emine\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_facebook_auth-6.2.0\android\src\main\AndroidManifest.xml
 6
 7</manifest>

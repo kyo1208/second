@@ -3,6 +3,6 @@
 3    package="com.aboutyou.dart_packages.sign_in_with_apple" >
 4
 5    <uses-sdk android:minSdkVersion="16" />
-5-->C:\Users\sahil\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-5.0.0\android\src\main\AndroidManifest.xml
+5-->C:\Users\emine\AppData\Local\Pub\Cache\hosted\pub.dev\sign_in_with_apple-5.0.0\android\src\main\AndroidManifest.xml
 6
 7</manifest>
